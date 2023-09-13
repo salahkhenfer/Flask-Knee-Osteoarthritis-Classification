@@ -44,7 +44,7 @@ six==1.16.0
 tensorboard-data-server==0.7.1
 
 tensorflow-estimator==2.13.0
-tensorflow-intel==2.13.0
+
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-probability==0.21.0
 termcolor==2.3.0
