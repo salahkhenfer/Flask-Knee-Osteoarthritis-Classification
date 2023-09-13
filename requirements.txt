@@ -3,6 +3,7 @@ gunicorn
 numpy
 flask
 joblib
+keras
 scikit-learn
 tensorflow
 
