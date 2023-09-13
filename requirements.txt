@@ -5,5 +5,5 @@ flask
 joblib
 scikit-learn
 tensorflow
-opencv
+
 
