@@ -4,3 +4,6 @@ numpy
 flask
 joblib
 scikit-learn
+tensorflow
+cv
+
